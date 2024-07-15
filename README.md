@@ -1,4 +1,4 @@
-# pident2
+# IPGT-ANN
 Source code for "Using attention neural networks to estimate individual-level pig growth trajectories from group-level weight time series".
 
 Packages used:
